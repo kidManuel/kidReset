@@ -9,7 +9,7 @@ Enter kidReset, a **heavily** opinionated remix of the original piece.
 - We don't try to fix IE7 weirdness. If your users are using archaic browsers, they can handle minor stylistic differences.
 - Border-box as default
 - God bless vw/vh
-- We aim for minimalism. Nobody *really* uses <blockquote>
+- We aim for minimalism. Nobody *really* uses ```<blockquote>```
 
 ##### Thanks/Acknowledgments:
 - Eric Mayer, the Original G
