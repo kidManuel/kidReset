@@ -11,6 +11,20 @@ Enter kidReset, a **heavily** opinionated remix of the original piece.
 - God bless vw/vh
 - We aim for minimalism. Nobody *really* uses <blockquote>
 
+##### Install:
+
+Using [NPM](http://npmjs.com):
+
+```command
+$ npm install @kidmanuel/kidreset
+```
+
+Using [Yarn](https://yarnpkg.com):
+
+```command
+$ yarn add @kidmanuel/kidreset
+```
+
 ##### Thanks/Acknowledgments:
 - Eric Mayer, the Original G
 - DavidWells
