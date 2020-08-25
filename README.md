@@ -1,4 +1,10 @@
 # kidReset
+
+![npm](https://img.shields.io/npm/dt/@kidmanuel/kidreset)
+![David](https://img.shields.io/david/kidManuel/kidReset)
+![GitHub](https://img.shields.io/github/license/kidManuel/kidReset)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@kidmanuel/kidreset)
+
 #### A 2020 solution to a 1995 problem
 
 We all can thank Eric Mayer for his seminal 2007 piece 'reset.css', but 13 years later, the hardcore underground css scene needs a shakeup. 
