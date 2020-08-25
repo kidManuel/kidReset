@@ -1,6 +1,6 @@
 {
   "name": "@kidmanuel/kidreset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A 2020 solution to a 1995 problem",
   "main": "reset.css",
   "repository": {
@@ -13,7 +13,7 @@
     "css"
   ],
   "author": "KidManuel <cascallarmanuel@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kidManuel/kidReset/issues"
   },
